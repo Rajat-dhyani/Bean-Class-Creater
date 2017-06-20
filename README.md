@@ -1,2 +1,5 @@
-# Bean-Class-Creater
-A simple desktop application for making a bean class in java 
+# Bean Class Creator
+A desktop utility application for making a bean classes in java. 
+
+
+![BeanClassCreator](https://github.com/Rajat-dhyani/Bean-Class-Creator/blob/master/BeanClassCreater.png)
