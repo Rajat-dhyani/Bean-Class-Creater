@@ -1,4 +1,4 @@
-# Bean-Class-Creater
+# Bean Class Creator
 A desktop utility application for making a bean classes in java. 
 
 
