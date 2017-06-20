@@ -2,4 +2,4 @@
 A desktop utility application for making a bean classes in java. 
 
 
-![BeanClassCreator](https://github.com/Rajat-dhyani/Bean-Class-Creator/blob/master/BeanClassCreater.png)
+![BeanClassCreator](https://github.com/Rajat-dhyani/Bean-Class-Creator/blob/master/BeanClassCreator.png)
